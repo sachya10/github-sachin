@@ -1,0 +1,25 @@
+Current Role & Responsibilities
+
+Cloud and DC engineer (AWS, azure and datacenter network and server management)
+What are your key responsibilities and daily tasks? - Managing the current AWS requirements and delivering with the excellence
+
+Technical Skills & Tools
+
+What technologies, platforms, or tools do you work with (e.g., cloud platforms, programming languages, software) - AWS, Azure, terraform, bash scripting, python intermediate skills, 
+
+
+Projects & Achievements
+
+Any notable projects you've worked on? - we have migrated the sandbbox environment to cloud environemnt, moved multiple onpremises application to AWS cloud environment
+Any measurable achievements (e.g., cost savings, performance improvements)? - Cost reduction and improved application flexibiltity due to cloud environment.
+
+Experience & Career History
+
+Previous roles and companies (with dates)? - 
+Any promotions or role changes?
+
+Education & Certifications
+
+Your highest qualification and any relevant certifications? - AWS solution architect associate, hashicorp associate.
+
+
