@@ -1,4 +1,4 @@
-My name is Sachin More, and I have around 7 years of experience working as a Cloud and DevOps Engineer.
+My name is Sachin V. More, and I have around 7 years of experience working as a Cloud and DevOps Engineer.
 
 Currently, I’m working with Volkswagen Group Digital Solutions, where I design and automate cloud infrastructure using AWS, Azure, Terraform, and Azure DevOps pipelines.
 
