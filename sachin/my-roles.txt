@@ -1,3 +1,5 @@
+++Responsibility++
+
 Current Role & Responsibilities
 
 Cloud and DC engineer (AWS, azure and datacenter network and server management)
