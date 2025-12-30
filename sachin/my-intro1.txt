@@ -1,6 +1,6 @@
 My name is Sachin V. More, and I have around 7 years of experience working as a Cloud and DevOps Engineer.
 
-Currently, I’m working with Volkswagen Group Digital Solutions, where I design and automate cloud infrastructure using AWS, Azure, Terraform, and Azure DevOps pipelines.
+Currently, I’m working with Some MNc company, where I design and automate cloud infrastructure using AWS, Azure, Terraform, and Azure DevOps pipelines.
 
 My core strength lies in Python-based automation, CI/CD pipeline design, and Infrastructure as Code. I have used Python extensively for automating operational tasks, integrating cloud services, handling configuration logic, and improving deployment reliability.
 
